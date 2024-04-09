@@ -1,0 +1,398 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Account" : {
+      "comment" : "Account Tab Bar Item",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Акаунт"
+          }
+        }
+      }
+    },
+    "Already have an account?" : {
+      "comment" : "Already have an account? Label",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вже є аккаунт?"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "comment" : "cancel Title",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скасувати"
+          }
+        }
+      }
+    },
+    "Change Language" : {
+      "comment" : "Change Language Label\nChange Language option",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Змінити мову"
+          }
+        }
+      }
+    },
+    "Date and time" : {
+      "comment" : "Date And Time Label",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дата і час"
+          }
+        }
+      }
+    },
+    "Do not have an account?" : {
+      "comment" : "Do not have an account? Label",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Немає облікового запису?"
+          }
+        }
+      }
+    },
+    "Edit Profile" : {
+      "comment" : "Edit Profile Label\nEdit Profile option",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Редагувати профіль"
+          }
+        }
+      }
+    },
+    "Email is already in use." : {
+      "comment" : "Email In Use Alert",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Електронна пошта вже використовується."
+          }
+        }
+      }
+    },
+    "Error" : {
+      "comment" : "Eror title",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Помилка"
+          }
+        }
+      }
+    },
+    "Feedback" : {
+      "comment" : "Feedback option",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зворотній зв'язок"
+          }
+        }
+      }
+    },
+    "Fill in all the fields." : {
+      "comment" : "Fill All Fields Alert",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Заповніть усі поля."
+          }
+        }
+      }
+    },
+    "Guest" : {
+      "comment" : "Guest Label",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гість"
+          }
+        }
+      }
+    },
+    "Hello," : {
+      "comment" : "Hello Label",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Привіт,"
+          }
+        }
+      }
+    },
+    "History" : {
+      "comment" : "History Tab Bar Item",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Історія"
+          }
+        }
+      }
+    },
+    "Home" : {
+      "comment" : "Home Tab Bar Item",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Головна"
+          }
+        }
+      }
+    },
+    "Incorrect password." : {
+      "comment" : "Incorrect password.",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Невірний пароль."
+          }
+        }
+      }
+    },
+    "Logged Out" : {
+      "comment" : "Logged Out Title",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log out"
+          }
+        }
+      }
+    },
+    "New Email" : {
+      "comment" : "New Email PlaceHolder",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Новий email"
+          }
+        }
+      }
+    },
+    "New Name" : {
+      "comment" : "New Name PlaceHolder",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нове Ім'я"
+          }
+        }
+      }
+    },
+    "Notifications" : {
+      "comment" : "Notifications option",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сповіщення"
+          }
+        }
+      }
+    },
+    "Offers" : {
+      "comment" : "Offers Tab Bar Item",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пропозиції"
+          }
+        }
+      }
+    },
+    "Password should be 6 symbols or more." : {
+      "comment" : "Weak Password Alert",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пароль має містити 6 символів або більше."
+          }
+        }
+      }
+    },
+    "Please enter correct email." : {
+      "comment" : "Invalid Email Alert\n   Please enter correct email.",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Будь ласка, введіть правильний email."
+          }
+        }
+      }
+    },
+    "Please login to your account to make an order." : {
+      "comment" : "Please login to your account to make an order.",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Будь ласка, увійдіть у свій обліковий запис, щоб зробити замовлення."
+          }
+        }
+      }
+    },
+    "Please try again." : {
+      "comment" : "Generic Error Alert\n   Please try again.",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Будь ласка спробуйте ще раз."
+          }
+        }
+      }
+    },
+    "points" : {
+      "comment" : "Points Label",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "балів"
+          }
+        }
+      }
+    },
+    "Points added" : {
+      "comment" : "points Added Label",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додано балів"
+          }
+        }
+      }
+    },
+    "Referral program" : {
+      "comment" : "Referral program option",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Реферальна програма"
+          }
+        }
+      }
+    },
+    "Registration" : {
+      "comment" : "\"Registration Title\"",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registration"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Реєстрація"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "comment" : "Save Title",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зберегти"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "comment" : "Settings option",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Налаштування"
+          }
+        }
+      }
+    },
+    "Sign in" : {
+      "comment" : "Sign in Title",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Увійти"
+          }
+        }
+      }
+    },
+    "Successfully Ordered" : {
+      "comment" : "Successfully Ordered Label",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Успішно замовлено"
+          }
+        }
+      }
+    },
+    "Total sum" : {
+      "comment" : "Total Sum Label",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Загальна сума"
+          }
+        }
+      }
+    },
+    "You have successfully logged out." : {
+      "comment" : "Logged Out Message",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ви успішно вийшли."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

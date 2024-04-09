@@ -1,0 +1,15 @@
+
+/* Class = "UIViewController"; title = "Home VC"; ObjectID = "NyS-Z9-e1e"; */
+"NyS-Z9-e1e.title" = "Home VC";
+
+/* Class = "UIViewController"; title = "Voucher VC"; ObjectID = "Q0Q-BX-RJG"; */
+"Q0Q-BX-RJG.title" = "Voucher VC";
+
+/* Class = "UIViewController"; title = "QR Code VC"; ObjectID = "UD8-Ve-29A"; */
+"UD8-Ve-29A.title" = "QR Code VC";
+
+/* Class = "UIViewController"; title = "Account VC"; ObjectID = "ZSC-xr-MeY"; */
+"ZSC-xr-MeY.title" = "Account VC";
+
+/* Class = "UIViewController"; title = "History VC"; ObjectID = "anJ-3S-Jem"; */
+"anJ-3S-Jem.title" = "History VC";
